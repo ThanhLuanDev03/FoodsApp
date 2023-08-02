@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="DangNhapTest" parallel="false">
+    <test name="TestLogin">
+        <classes>
+            <class name="TestScript.TestDangNhap"/>
+        </classes>
+    </test>
+</suite>

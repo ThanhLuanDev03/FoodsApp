@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="QLNhanVienTest" parallel="false">
+    <test name="TestLogin">
+        <classes>
+            <class name="TestScript.TestQLNhanVien"/>
+        </classes>
+    </test>
+</suite>
